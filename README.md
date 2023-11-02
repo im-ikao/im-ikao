@@ -5,14 +5,12 @@
 [![Telegram](https://img.shields.io/badge/@imikao-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge&link=https://t.me/imikao/)](https://t.me/imikao)
 [![Email](https://img.shields.io/badge/me@ikao.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:me@ikao.dev)](mailto:me@ikao.dev)
 
-I am Aleksei Kostrykin.
+I'm an Engineer by heart, and an Entrepreneur by spirit. I've always had a knack for looking beyond the horizons, fueling my passion for bringing a visionary perspective into the technical world.
+
+🎮 Music • Games • Anime • Code • Art
+
+🐾 Muffin 🐰 • Cake & Cookie🐤🐥
+
+
 ## ⚡ My Best Skills
 ![Static Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Static Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Static Badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Static Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Static Badge](https://camo.githubusercontent.com/a50ae92ae073c2d49ad15163ad138b5f7b68107b0f32176c9c3aaa325eec1fa3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436c69636b486f75736526636f6c6f723d323232323232266c6f676f3d436c69636b486f757365266c6f676f436f6c6f723d464643433031266c6162656c3d)
-## ⚡ My Additional Skills 
-![Static Badge](https://camo.githubusercontent.com/4ec342876a40b53ffc6230a41196528690f9f42b1098fd354df46c649720b4c6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446f636b657226636f6c6f723d323439364544266c6f676f3d446f636b6572266c6f676f436f6c6f723d464646464646266c6162656c3d) 
-![Static Badge](https://camo.githubusercontent.com/a48304704d6d8a80bdfb4a6672de2cf16d6d0026660de5dbaa72f8c8f1b68d02/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d44726f6e6526636f6c6f723d323132313231266c6f676f3d44726f6e65266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![Static Badge](https://camo.githubusercontent.com/46e16cfdabfe33084017c9763df514dae8ec8dbd1a88d248c90a92beab852780/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4875676f26636f6c6f723d464634303838266c6f676f3d4875676f266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![Static Badge](https://camo.githubusercontent.com/4e7e03d5ee8df1372ae271cca397565db3c7334df688b24fb4c4772670b56360/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d53656c656e69756d26636f6c6f723d343342303241266c6f676f3d53656c656e69756d266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![Static Badge](https://camo.githubusercontent.com/d96a01edb67770ddc4a8794895b4e2c1fab10e9fab40060b287bcb3448915a01/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5669746526636f6c6f723d363436434646266c6f676f3d56697465266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![Static Badge](https://img.shields.io/static/v1?style=for-the-badge&message=pixijs&color=0096FA&logo=pixiv&logoColor=FFFFFF&label=)
-![Static Badge](https://camo.githubusercontent.com/b266791f8bd47724a510885e147661a76f4c76677f8ed67768bbbbda1825e0b8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47726166616e6126636f6c6f723d463436383030266c6f676f3d47726166616e61266c6f676f436f6c6f723d464646464646266c6162656c3d)
