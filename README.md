@@ -7,9 +7,12 @@
 
 I'm an Engineer by heart, and an Entrepreneur by spirit. I've always had a knack for looking beyond the horizons, fueling my passion for bringing a visionary perspective into the technical world.
 
-🎮 Music • Games • Anime • Code • Art
-
-🐾 Muffin 🐰 • Cake & Cookie🐤🐥
+<div align="center">
+  <pre>
+      🎮 Music • Games • Anime • Code • Art
+      🐾 Muffin 🐰 • Cake & Cookie🐤🐥
+</pre>
+</div>
 
 
 ## ⚡ My Best Skills
